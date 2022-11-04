@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:    
     - uses: actions/checkout@v2
-    - uses: JoshTestOrg-2/action-repo-14@main
+    - uses: JoshTestOrg-2/action-repo-1@main
